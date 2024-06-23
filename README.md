@@ -6,3 +6,8 @@ An example of English text tone detection with [Hugging Face](https://huggingfac
 
 
 Tests GitHub Actions
+
+Предложенные улучшения:
+
+1. Добавить регистрацию логов
+2. Добавить обработку исключений для предотвращения возможных ошибок при вызове classifier(item.text)
